@@ -1,3 +1,3 @@
 # King!: Coming Soon Website
 
-View live site: https://adiferrer.github.io/king/
+View live site: https://jeanneferrer.github.io/king/
